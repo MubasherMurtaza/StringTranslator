@@ -2,15 +2,15 @@ PODS:
   - StringTranslator (1.0.0)
 
 DEPENDENCIES:
-  - StringTranslator (from `../StringTranslator`)
+  - StringTranslator
 
-EXTERNAL SOURCES:
-  StringTranslator:
-    :path: "../StringTranslator"
+SPEC REPOS:
+  trunk:
+    - StringTranslator
 
 SPEC CHECKSUMS:
   StringTranslator: 57bb79f0f2e5219f8cb31c8bffec8ddff1328fe1
 
-PODFILE CHECKSUM: efedec074d0c401c185237f22467ce6b438672b3
+PODFILE CHECKSUM: 21b86af791f4b8cc986a2edd720931d209d23a36
 
 COCOAPODS: 1.15.2

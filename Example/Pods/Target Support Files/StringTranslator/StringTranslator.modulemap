@@ -1,0 +1,6 @@
+framework module StringTranslator {
+  umbrella header "StringTranslator-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9115AEE7D1012285B4AF9A9B7223E7D8"
-               BuildableName = "StringTranslator"
+               BuildableName = "StringTranslator.framework"
                BlueprintName = "StringTranslator"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
