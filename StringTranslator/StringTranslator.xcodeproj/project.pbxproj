@@ -47,18 +47,10 @@
 		57820FBC2C6237AC00E8785D /* StringTranslator */ = {
 			isa = PBXGroup;
 			children = (
-				57820FC42C6237C700E8785D /* Classes */,
-			);
-			path = StringTranslator;
-			sourceTree = "<group>";
-		};
-		57820FC42C6237C700E8785D /* Classes */ = {
-			isa = PBXGroup;
-			children = (
 				57820FBD2C6237AC00E8785D /* StringTranslator.h */,
 				57820FC52C6237DE00E8785D /* Validator.swift */,
 			);
-			path = Classes;
+			path = StringTranslator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
